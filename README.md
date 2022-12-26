@@ -2,7 +2,7 @@
 - 👋 Hi there! My name is @sicin and I'm a software developer with a background in humanities.
 - 🌱 My first introduction to programming was as a teenager, creating Warcraft III maps.
 - :snake: In 2018, I began using Python for my digital humanities research, analyzing text reuse between ancient Chinese texts.
-- :rocket: Since then, I've gained experience in a variety of programming languages and frameworks through personal and academic projects, freelancing work, and my current job as a developer.
+- :rocket: Since then, I've gained experience in a variety of programming languages and frameworks through personal and academic projects, freelance work, and my current job as a developer.
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12494235) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sicin) 
