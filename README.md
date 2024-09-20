@@ -2,7 +2,7 @@
 
 - 👋 Hi there! I'm @sicin, a software developer with a background in humanities.
 - 🌱 My first introduction to programming was as a teenager, creating Warcraft III maps.
-- :snake: In 2018, I began using Python for my digital humanities research, analyzing text reuse between ancient Chinese texts.
+- :snake: In 2017, I began using Python for my digital humanities research, analyzing text reuse between ancient Chinese texts.
 - :rocket: Since then, I've gained experience in a variety of programming languages and frameworks through personal and academic projects, freelance work, and my current job as a developer.
 - :wrench: I'm working on two side-project at the moment, [my website](https://sinoreporter.com) and [Worlds Without Number Character Sheet Creator](https://github.com/sicin/wwn_sheet).
 
